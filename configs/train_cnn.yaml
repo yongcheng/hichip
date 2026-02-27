@@ -1,0 +1,7 @@
+extends: base
+model: cnn_pair_encoder
+training:
+  batch_size: 64
+  epochs: 30
+  optimizer: adamw
+  learning_rate: 0.0003

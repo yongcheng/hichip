@@ -1,0 +1,7 @@
+project: 3d_genome_loop_prediction
+genome: hg38
+resolution_bp: 1000
+distance_min_bp: 20000
+distance_max_bp: 1000000
+task: binary_loop
+seed: 42

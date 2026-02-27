@@ -1,0 +1,8 @@
+extends: base
+model: xgboost
+params:
+  objective: binary:logistic
+  eval_metric: aucpr
+  max_depth: 8
+  learning_rate: 0.05
+  n_estimators: 500
