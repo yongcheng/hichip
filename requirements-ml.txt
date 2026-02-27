@@ -21,3 +21,4 @@ torchaudio==2.11.0.dev20260227
 torchvision==0.26.0.dev20260227
 transformers==5.2.0
 xgboost==1.7.6
+pytest==9.0.2
